@@ -1,3 +1,4 @@
+# This repository has been archived under Pulsar-Edit as this is now built-in functionality in GitHub
 # pr-changelog
 
 A command line utility to generate a PR changelog between two refs. The resulting changelog looks like:
